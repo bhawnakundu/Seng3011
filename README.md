@@ -41,6 +41,6 @@ Figure 1 shows globe with a pin marked, the popup shows the outbreaks happening 
 
 Figure 2 shows a more detailed description of the website.
 
-![Image description](https://github.com/bhawnakundu/Seng3011/blob/master/Screen%20Shot%202020-05-22%20at%201.37.25%20pm.png)
+![Image description](https://github.com/bhawnakundu/Seng3011/blob/master/Screen%20Shot%202020-05-22%20at%201.37.53%20pm.png)
 
 
