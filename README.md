@@ -37,10 +37,10 @@ Webkit nightly
 
 Figure 1 shows globe with a pin marked, the popup shows the outbreaks happening at that place. We built a scraper that scrapes these outbreaks from different health organisation websites and the information is updated on day-to-day basis. This globe rotates and takes you to whatever pin you click on. 
 
-![Image description](link-to-image)
+![Image description](https://github.com/bhawnakundu/Seng3011/blob/master/Screen%20Shot%202020-05-22%20at%201.37.25%20pm.png)
 
 Figure 2 shows a more detailed description of the website.
 
-![Image description](link-to-image)
+![Image description](https://github.com/bhawnakundu/Seng3011/blob/master/Screen%20Shot%202020-05-22%20at%201.37.25%20pm.png)
 
 
